@@ -1,0 +1,2 @@
+Carry save adder is the hardware used to add binary numbers. It is much more efficient than the ripple arry adder and less complicated than the carry look head adder and reduces delay greatly. 
+The following folder contains codes for different verilog modules used to construct a 4-bit carry save adder
