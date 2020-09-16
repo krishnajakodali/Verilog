@@ -1,0 +1,4 @@
+A decoder is a circuit that activates a particular output based onyour input. It usually activates the correspondingoutput as the binary number represented by your input.
+In this project, we practice instantiation of a module into the main module.
+We design a 3:8 decoder using 2:4 decoders with an enable input.
+The pdf document contains the required logic diagrams and discussion.
