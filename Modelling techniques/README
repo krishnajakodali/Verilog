@@ -2,6 +2,6 @@ Verilog has 3 major modelling techniques:
 1)Behavioral
 2)Structural
 3)Mixed
-In this project we tray to design a full subtractor circuit and a 4:1 MUX using these 3 modelling techniques
+In this project we try to design a full subtractor circuit and a 4:1 MUX using these 3 modelling techniques
 .v are the verilog modules and test benches
 Refer to the pdf document for explanation
