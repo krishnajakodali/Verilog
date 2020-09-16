@@ -2,5 +2,5 @@ Carry save adder is the hardware used to add binary numbers. It is much more eff
 The following folder contains codes for different verilog modules used to construct a 4-bit carry save adder
 Follow the pdf document for the explanation 
 Here we add s and c using a ripple carry adder, this can also be done using carry look ahead adder to reduce the delay further
-The main module is the carry_save.v and full_adder.v is a sub module
+The main module is the carry_save.v and full_adder.v is a module used for instantiation
 
